@@ -1,5 +1,5 @@
 # 👋 Hi, I’m HyPer DeveLoper
-- 👀 13 y/o  Full Stack Developer💻
+- 👀 13 y/o Frond End Developer💻
 - 🌱 I started learning HTML and CSS
 - 💞️ I'm into software
 <!---
