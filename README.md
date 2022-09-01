@@ -1,6 +1,6 @@
 # 👋 Hi, I’m HyPer DeveLoper
 - 👀 13 y/o Frond End Developer💻
-- 🌱 I started learning HTML and CSS
+- 🌱 I started learning JavaScript
 - 💞️ I'm into software
 <!---
 HYpErDvlopr/HYpErDvlopr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
